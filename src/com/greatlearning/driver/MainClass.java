@@ -7,9 +7,10 @@ import com.greatlearning.departments.TechDepartment;
 public class MainClass {
 	public static void main(String args[]) {
 		
-		AdminDepartment admin=new AdminDepartment();
-		HrDepartment hr=new HrDepartment();
-		TechDepartment tech=new TechDepartment();
+		AdminDepartment admin = new AdminDepartment();
+		HrDepartment hr = new HrDepartment();
+		TechDepartment tech = new TechDepartment();
+		
 		admin.departmentName();
 		admin.getTodaysWork();
 		admin.getWorkDeadline();
