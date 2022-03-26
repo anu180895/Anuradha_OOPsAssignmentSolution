@@ -2,10 +2,10 @@ package com.greatlearning.departments;
 
 import com.greatlearning.model.SuperDepartment;
 
-public class TechDepartment extends SuperDepartment{
+public class TechDepartment extends SuperDepartment {
 	public void departmentName()
 	{
-		System.out.println("\n\nWelcome to Tech Department ");
+		System.out.println("\nWelcome to Tech Department ");
 	}
 	
 	public void getTodaysWork()

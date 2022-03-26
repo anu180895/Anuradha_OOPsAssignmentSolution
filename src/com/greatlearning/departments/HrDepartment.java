@@ -2,7 +2,7 @@ package com.greatlearning.departments;
 
 import com.greatlearning.model.SuperDepartment;
 
-public class HrDepartment extends SuperDepartment{
+public class HrDepartment extends SuperDepartment {
 	public void departmentName()
 	{
 		System.out.println("\nWelcome to HR Department ");
